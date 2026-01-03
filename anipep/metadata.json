@@ -1,0 +1,8 @@
+
+{
+  "name": "Anipep - AI Voice Receptionist",
+  "description": "A high-performance landing page for Anipep, featuring an interactive ROI calculator and a Gemini-powered AI receptionist demo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
